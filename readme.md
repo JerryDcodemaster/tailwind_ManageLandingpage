@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+I picked this project from the [Front-end mentors challenge](https://www.frontendmentor.io/).
 
 ![Alt text](/img/screen.png?raw=true)
 
